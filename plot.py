@@ -12,7 +12,7 @@ files = argv[1:]
 
 # A list of all the files we wish to process
 # Comment this line to use command line arguments
-files = ['20_deg_C.csv']
+files = ['20_deg_C.csv','25_deg_C.csv','30_deg_C.csv','35_deg_C.csv','40_deg_C.csv']
 
 # ----------------------------- FITTING OPTIONS --------------------------------------------
 # Set fit to True to calculate a fit to the (possibly manipulated) data
